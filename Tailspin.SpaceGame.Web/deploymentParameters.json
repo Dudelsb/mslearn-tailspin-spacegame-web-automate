@@ -6,15 +6,15 @@
             "value": "-dev-"
         },
         "keyVaultName": {
-          "value": "tailspin-spacegame-web-rg"
+          "value": "tailspin-vault-18324"
         },
         "uniqueSuffix": {
-            "value": "9818736726"
+            "value": "1212"
         },
         "adminPassword": {
             "reference": {
               "keyVault": {
-                "id": "https://tailspin-vault-29098.vault.azure.net/secrets/adminPassword/3499db4d5106438484d160cf3c200a65"
+                "id": "https://tailspin-vault-18324.vault.azure.net/secrets/adminPassword/e5d25517bb4143ccb8f138e2e815ae3d"
               },
               "secretName": "adminPassword"
             }
@@ -22,7 +22,7 @@
         "firstRun": {
             "reference": {
                 "keyVault": {
-                    "id": "https://tailspin-vault-29098.vault.azure.net/secrets/firstRun/a6d5b1fbd984460cb35f512f7dc8e4b8"
+                    "id": "https://tailspin-vault-18324.vault.azure.net/secrets/firstRun/5f30d2fa5f874bb4964146641767e4ca"
                 },
                 "secretName": "firstRun"
             }
